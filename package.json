@@ -1,0 +1,21 @@
+{
+  "name": "netra-ai",
+  "version": "1.0.0",
+  "description": "NETRA AI: AI-powered scam detection, phishing prevention, and digital fraud protection platform with Gemma 3:1B and deterministic security rules",
+  "type": "module",
+  "main": "backend/src/server.js",
+  "scripts": {
+    "start": "node backend/src/server.js",
+    "test": "node --test backend/tests/*.test.js"
+  },
+  "keywords": [
+    "cybersecurity",
+    "scam-detection",
+    "phishing-protection",
+    "fraud-prevention",
+    "gemma3",
+    "deterministic-rules"
+  ],
+  "author": "NETRA AI Team",
+  "license": "Apache-2.0"
+}
